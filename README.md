@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
+# Not Pro Gamer
+
 - I’m currently learning **React,NodeJs and Phyton**
 
 - 📫 How to reach me **ridwansbdt@gmail.com**
