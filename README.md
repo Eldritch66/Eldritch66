@@ -2,8 +2,7 @@
 
 # I'm a student in university, Passionate learn about software
 
-- I’m learning **React and NodeJs**
-- My focus currently in react and nextJs to make monolith architecture
+- I’m focusing on **React and NodeJs**
 
 - 📫 you can reach me in email: **ridwansbdt@gmail.com**
 
