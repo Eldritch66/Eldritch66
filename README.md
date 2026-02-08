@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋</h1>
-
-<b> I'm a student in university, Passionate learn about software </b>
+<h1 align="center">Hi There, Welcome to my profile</h1>
 
 # Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
