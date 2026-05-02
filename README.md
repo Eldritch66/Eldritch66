@@ -1,5 +1,5 @@
 <h2 align="center">
-  Eldricth666
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&center=true&vCenter=true&repeat=false&duration=1&pause=100000&size=28&lines=Eldricth666" />
 </h2>
 
 <p align="center">
@@ -7,7 +7,9 @@
   src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&center=true&vCenter=true&repeat=false&width=500&lines=frontend+dev+⬥+backend+dev+⬥+fullstack" 
 /></p>
 
-# Tech Stack
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=24&repeat=false&duration=1&pause=100000&lines=Tech+Stack" />
+</p>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -27,4 +29,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logo=laravel&logoColor=black)
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/RidwanRosling/RidwanRosling/output/github-contribution-grid-snake-dark.svg?color_snake=00FF7F&color_dots=161b22,0e4429,006d32,26a641,39d353" />
+</p>
 <img src="https://raw.githubusercontent.com/RidwanRosling/RidwanRosling/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
