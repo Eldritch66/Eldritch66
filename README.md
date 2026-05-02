@@ -1,11 +1,6 @@
 <h2 align="center">
-<b>Eldritch66</b><br/>
-
-<img src="https://svgshare.com/i/15hA.svg" width="10"/> frontend dev 
-<img src="https://svgshare.com/i/15hA.svg" width="10"/> backend dev 
-<img src="https://svgshare.com/i/15hA.svg" width="10"/> fullstack learner</h2>
-
-<br/><br/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=FF4D6D&center=true&lines=Ridwan;frontend+dev+⬥+backend+dev+⬥+fullstack+learner" />
+</h2>
 
 # Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
