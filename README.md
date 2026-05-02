@@ -1,7 +1,9 @@
 <h2 align="center">
 <b>Eldritch66</b><br/>
-frontend dev ✦ backend dev ✦ mobile dev
-</h2>
+
+<img src="https://svgshare.com/i/15hA.svg" width="10"/> frontend dev 
+<img src="https://svgshare.com/i/15hA.svg" width="10"/> backend dev 
+<img src="https://svgshare.com/i/15hA.svg" width="10"/> fullstack learner</h2>
 
 <br/><br/>
 
