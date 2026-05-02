@@ -1,5 +1,6 @@
 <h2 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=FF4D6D&center=true&lines=Ridwan;frontend+dev+⬥+backend+dev+⬥+fullstack+learner" />
+<b>Eldritch666</b>
+<img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&center=true&vCenter=true&repeat=false&lines=frontend+dev+⬥+backend+dev+⬥+fullstack+learner" />
 </h2>
 
 # Tech Stack
