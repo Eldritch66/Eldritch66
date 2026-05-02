@@ -30,6 +30,8 @@
 ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logo=laravel&logoColor=black)
 
+<br />
+
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=24&repeat=false&duration=1&pause=100000&lines=Contribution+Snake" />
 </p>
