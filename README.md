@@ -3,8 +3,9 @@
 </h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&center=true&vCenter=true&repeat=false&lines=frontend+dev+⬥+backend+dev+⬥+fullstack+learner" />
-</p>
+<img 
+  src="https://readme-typing-svg.herokuapp.com/?color=00FF7F&center=true&vCenter=true&repeat=false&width=500&lines=frontend+dev+⬥+backend+dev+⬥+fullstack" 
+/></p>
 
 # Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
