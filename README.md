@@ -1,4 +1,9 @@
-<h1 align="center">Hi There, Welcome to my profile</h1>
+<h2 align="center">
+<b>Eldritch66</b><br/>
+frontend dev ✦ backend dev ✦ mobile dev
+</h2>
+
+<br/><br/>
 
 # Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
